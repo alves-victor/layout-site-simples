@@ -1,0 +1,93 @@
+@media screen and (max-width: 992px){
+
+    .menu{
+        text-align: center;
+    }
+
+    .menu h1{
+        height: 50px;
+    }
+
+    .menu ul{
+        margin: auto;
+        height: 50px;
+    }
+
+    .flex-container{
+        flex-direction: column;
+    }
+
+    .presentation{
+        flex-direction: column-reverse;
+        height: 70vh;
+    }
+
+    .presentation img{
+        width: 80%;
+        margin: auto;
+    }
+
+    .presentation-text h1 and p and{
+        width: 100%;
+        margin: auto;
+    }
+
+    .about-us{
+        flex-direction: column-reverse;
+    }
+
+    .about-us img{
+        min-width: 320px;
+        width: 80%;
+        margin: auto;
+    }
+
+    .about-us h2{
+        text-align: center;
+        justify-content: center;
+    }
+
+    .about-us p{
+        width: 90%;
+        text-align: justify;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    #services h2{
+        text-align: center;
+    }
+
+    .list-services{
+        flex-direction: column;
+    }
+
+    .item-service img{
+        width: 50%;
+        margin: auto;
+    }
+
+    .item-service p{
+        margin: auto;
+    }
+
+    #plans h2{
+        text-align: center;
+        padding-bottom: 40px;
+    }
+
+    .list-plans{
+        flex-direction: column;
+        margin: auto;
+    }
+
+    .item-plans{
+        margin: auto;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    footer div{
+        text-align: center;
+    }
+}
