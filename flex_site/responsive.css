@@ -23,7 +23,7 @@
     }
 
     .presentation img{
-        width: 80%;
+        width: 290px;
         margin: auto;
     }
 
@@ -60,11 +60,6 @@
 
     .list-services{
         flex-direction: column;
-    }
-
-    .item-service img{
-        width: 50%;
-        margin: auto;
     }
 
     .item-service p{
